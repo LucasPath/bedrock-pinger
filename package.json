@@ -1,0 +1,11 @@
+{
+  "name": "bedrock-pinger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "gamedig": "^2.0.22"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
